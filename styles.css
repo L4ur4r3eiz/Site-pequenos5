@@ -1,0 +1,91 @@
+ .produtoras {
+     display: flex;
+     justify-content: space-around;
+     width: 100%;
+     padding: 50px;
+     padding-left: 20px;
+     padding-top: 30px;
+
+
+
+
+ }
+
+ button {
+     display: inline-block;
+     justify-content: space-between;
+     gap: 20px;
+     width: 29%;
+     padding: 25px;
+
+     margin: 30px;
+     align-items: center;
+
+     text-align: center;
+     place-items: center;
+     border-radius: 3px;
+
+     font-size: 16px;
+     font-weight: 300;
+     text-align: center;
+     text-transform: uppercase;
+     letter-spacing: o.3px;
+
+     transform: skew(-10deg);
+     background: transparent;
+     border: 1px solid var(--blue);
+
+
+ }
+
+
+
+
+
+
+
+
+
+ .container {
+     display: flex;
+     justify-content: space-between;
+     gap: 10px;
+     width: 95%;
+     padding: 20px;
+     margin: 20px;
+     overflow-x: auto;
+     padding-left: 50px;
+ }
+
+ .item {
+     background-color: #22292c5e;
+     padding: 20px;
+     color: white;
+     border-radius: 5px;
+     text-align: center;
+
+ }
+
+ .item img {
+     display: flex;
+     justify-content: space-between;
+     height: 250px;
+     left: 250px;
+     display: flex;
+
+ }
+
+
+
+
+
+
+ .footer {
+    background-color: #1e1e1e2d; 
+    color: #fff; 
+    padding: 5px 0;
+    
+    position: relative;
+    width: 100%;
+
+ }
